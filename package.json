@@ -1,0 +1,16 @@
+{
+  "name": "ttv-clips",
+  "version": "1.0.0",
+  "description": "",
+  "main": "src/index.js",
+  "scripts": {
+    "start": "node src/index.js"
+  },
+  "author": "Oskar Manhart",
+  "license": "GPLv3",
+  "dependencies": {
+    "discord.js": "^13.6.0",
+    "dotenv": "^16.0.0",
+    "express": "^4.17.3"
+  }
+}
